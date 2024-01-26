@@ -6,4 +6,3 @@ fn main() {
 	//amount
 	let amount = p* ((1 + (r/100))^n);
 	println!("Amount is {}", amount );
-}
